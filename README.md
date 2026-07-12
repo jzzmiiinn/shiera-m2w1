@@ -66,7 +66,7 @@ Cart now has 5 items
 
 ## 🚀 How to Run
 
-1. Save the code as `index.js`.
+1. Save the code as `app.js`.
 2. Open a terminal in the project folder.
 3. Run the following command:
 
