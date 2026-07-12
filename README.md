@@ -71,7 +71,7 @@ Cart now has 5 items
 3. Run the following command:
 
 ```bash
-node index.js
+node app.js
 ```
 
 ## 📚 Learning Objectives
