@@ -20,7 +20,7 @@ A simple JavaScript project that demonstrates the use of modern JavaScript featu
 
 ```
 shopping-cart/
-│── index.js
+│── app.js
 │── README.md
 ```
 
